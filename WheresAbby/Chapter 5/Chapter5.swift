@@ -6,5 +6,5 @@
 import Foundation
 
 func chapterFive() {
-    // Your portion of the story goes here
+    // Abby is extremely sweet and cool yeah yeah
 }

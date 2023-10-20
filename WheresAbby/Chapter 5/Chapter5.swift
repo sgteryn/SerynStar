@@ -6,5 +6,5 @@
 import Foundation
 
 func chapterFive() {
-    // Abby is extremely sweet and cool yeah yeah
+    // Abby is extremely sweet and cool yeah yeah and wise too okkkk
 }
